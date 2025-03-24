@@ -5,7 +5,7 @@ const FirstMain = () => {
         <div className="flex flex-col md:flex-row justify-between items-center mx-auto ">
             {/* Text Section */}
             <div className="md:w-1/2 text-center md:text-left space-y-4 pl-[10%] p-[20px] ">
-                <h1 className="text-3xl md:text-4xl font-extrabold text-gray-800">Transform your brand</h1>
+                <h1 className="text-2xl md:text-4xl font-extrabold text-gray-800">Transform your <br /> brand</h1>
                 <p className="text-gray-700 text-lg leading-relaxed  ">
                     Lorem ipsum dolor sit amet consectetur, adipisicing elit.
                     Consequuntur reiciendis fuga velit minima voluptatum

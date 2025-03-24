@@ -10,7 +10,7 @@ const SecondMain = () => {
 
             {/* Text Section */}
             <div className="md:w-1/2 text-center md:text-left space-y-4 p-[30px]  ">
-                <h1 className=" text-3xl md:text-4xl font-extrabold text-gray-800">Stand out to the right audience</h1>
+                <h1 className=" text-2xl md:text-4xl font-extrabold text-gray-800">Stand out to the right audience</h1>
                 <p className="text-gray-700 text-lg leading-relaxed">
                     Lorem ipsum dolor sit amet consectetur, adipisicing elit.
                     Consequuntur reiciendis fuga velit minima voluptatum

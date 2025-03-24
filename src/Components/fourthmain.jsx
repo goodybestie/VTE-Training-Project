@@ -6,7 +6,7 @@ const FourthMain = () => {
     return (
         <>
             {/* Section Title */}
-            <div className="text-center mt-[30%] md:mt-[20%] mb-10">
+            <div className="text-center mt-[30%] md:mt-[10%] mb-10">
                 <h1 className="text-gray-800 text-1xl md:text-2xl font-bold tracking-widest mb-[5%]">
                     CLIENT TESTIMONIALS
                 </h1>
