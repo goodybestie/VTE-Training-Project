@@ -22,8 +22,8 @@ const FourthMain = () => {
                         provident pariatur, excepturi debitis quas repudiandae harum."
                     </p>
                     <div className="mt-8">
-                    <h1 className="text-lg font-bold mt-4">Emily F.</h1>
-                    <p className="text-sm text-gray-500">Data Analyst</p>
+                        <h1 className="text-lg font-bold mt-4">Emily F.</h1>
+                        <p className="text-sm text-gray-500">Data Analyst</p>
                     </div>
                 </div>
 
@@ -35,8 +35,8 @@ const FourthMain = () => {
                         provident pariatur, excepturi debitis quas repudiandae harum."
                     </p>
                     <div className="mt-8">
-                    <h1 className="text-lg font-bold mt-4">Thomas S.</h1>
-                    <p className="text-sm text-gray-500">Cheif Opering Officer</p>
+                        <h1 className="text-lg font-bold mt-4">Thomas S.</h1>
+                        <p className="text-sm text-gray-500">Cheif Opering Officer</p>
                     </div>
                 </div>
 
@@ -48,9 +48,9 @@ const FourthMain = () => {
                         provident pariatur, excepturi debitis quas repudiandae harum."
                     </p>
                     <div className="mt-8">
-                    <h1 className="text-lg font-bold mt-4">Jennie F.</h1>
-                    <p className="text-sm text-gray-500">Business Owner</p>
-                </div>
+                        <h1 className="text-lg font-bold mt-4">Jennie F.</h1>
+                        <p className="text-sm text-gray-500">Business Owner</p>
+                    </div>
                 </div>
             </div>
         </>

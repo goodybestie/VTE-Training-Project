@@ -2,7 +2,8 @@ import imagetransform from "../Data/images/desktop/imagetransform.jpg";
 
 const FirstMain = () => {
     return (
-        <div className="flex flex-col md:flex-row justify-between items-center mx-auto ">
+        <div className="">
+        <div className="flex  flex-col-reverse md:flex-row justify-between items-center mx-auto ">
             {/* Text Section */}
             <div className="md:w-1/2 text-center md:text-left space-y-4 pl-[10%] p-[20px] ">
                 <h1 className="text-2xl md:text-4xl font-extrabold text-gray-800">Transform your <br /> brand</h1>
@@ -20,6 +21,7 @@ const FirstMain = () => {
             <div className="md:w-1/2">
                 <img src={imagetransform} alt="Transform" className="w-full h-auto object-cover" />
             </div>
+        </div>
         </div>
     );
 };

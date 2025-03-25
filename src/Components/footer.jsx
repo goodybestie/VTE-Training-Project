@@ -27,10 +27,10 @@ const Footer = () => {
                 {/* Social Media Icons */}
                 <div className="flex gap-4 mt-6 justify-center">
                     {images.map((image, index) => (
-                        <img 
-                            key={index} 
-                            src={image.img} 
-                            alt={image.alt} 
+                        <img
+                            key={index}
+                            src={image.img}
+                            alt={image.alt}
                             className="w-6 h-6 cursor-pointer hover:filter hover:brightness-0 hover:invert"
                         />
                     ))}
